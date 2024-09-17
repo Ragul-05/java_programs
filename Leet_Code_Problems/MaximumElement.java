@@ -35,4 +35,5 @@ public class MaximumElement{
         Solution solution = new Solution(); 
         int num = solution.majorityElement(nums);
         System.out.println( + num);
-   
+    }
+}
