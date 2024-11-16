@@ -26,3 +26,5 @@ public class MissingNumber {
         System.out.println("Missing number: " + findMissingNumber(nums3)); // Output: 8
     }
 }
+
+//Time complexity  -- >  O
